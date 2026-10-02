@@ -1,0 +1,23 @@
+# Data
+data/raw/
+*.tif
+*.png
+
+# Checkpoints
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/

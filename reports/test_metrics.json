@@ -1,0 +1,13 @@
+{
+    "split": "test",
+    "threshold": 0.3,
+    "metrics": {
+        "water_iou_global": 0.7285345368879741,
+        "precision_global": 0.8493414571052733,
+        "recall_global": 0.8366550280844051,
+        "f1_global": 0.8429505125186749,
+        "water_iou_mean": 0.5424182476979953,
+        "empty_image_fpr": 0.00142822265625
+    },
+    "checkpoint": "water_segmentation/checkpoints/final_model_engineered/best_model.pt"
+}
