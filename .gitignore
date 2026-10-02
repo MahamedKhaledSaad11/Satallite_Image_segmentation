@@ -1,7 +1,7 @@
 # Data
 data/raw/
 *.tif
-
+TECHNICAL_REPORT.md
 # Checkpoints
 checkpoints/
 
@@ -20,3 +20,5 @@ Thumbs.db
 
 # Notebooks
 .ipynb_checkpoints/
+generate_pdf_report.py
+generate_pdf_report_v2.py
