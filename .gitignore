@@ -1,7 +1,6 @@
 # Data
 data/raw/
 *.tif
-*.png
 
 # Checkpoints
 checkpoints/
